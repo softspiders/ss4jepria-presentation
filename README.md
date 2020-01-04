@@ -140,3 +140,15 @@ TBD
 
 TBD 
 ---
+
+## Реализация на GitHub
+
+TBD 
+
+### Ссылки в *README.md*
+
+TBD 
+
+### *Use this template*
+
+TBD 
