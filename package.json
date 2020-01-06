@@ -1,0 +1,17 @@
+{
+  "name": "ss4jepria-mdx-deck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "mdx-deck deck.mdx",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Lapygin <alexanderlapygin@gmail.com>",
+  "dependencies": {
+    "mdx-deck": "^2.5.1",
+    "react": "latest",
+    "react-chartkick": "latest"
+  }
+}

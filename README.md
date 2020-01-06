@@ -180,3 +180,9 @@ TBD
 ### *Use this template*
 
 TBD 
+
+## Приложения
+
+### CRUD-иерархия
+
+![CRUD-иерархия](images/crud-full-hierarchy.svg)
