@@ -183,6 +183,11 @@ TBD
 
 ## Приложения
 
-### CRUD-иерархия
+### Полная CRUD-иерархия
 
 ![CRUD-иерархия](images/crud-full-hierarchy.svg)
+
+
+### Полезная CRUD-иерархия
+
+![CRUD-иерархия](images/crud-full-hierarchy-useful.svg)
