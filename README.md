@@ -10,16 +10,28 @@ TBD
 
 Почти все - на GitHub, в том числе - Templates
 
-Для Java:
-![Первый уровень](images/starters-java.png)
+Для Spring-Boot:
+![Java - стартеры](images/starters-spring-boot.png)
 
 Для React:
-![Первый уровень](images/starters-react.png)
+![React - стартеры](images/starters-react.png)
+
+Для PL/SQL:
+![PL/SQL - стартеры](images/starters-plsql.png)
 
 ##### Почему этого мало ?
 
     
 #### Архетипы Maven
+
+Что касается Maven-архетипов, то на данный момент не существует 
+
+Для Spring:
+![PL/SQL - стартеры](images/maven-archetype-spring.png)
+
+Для React:
+![PL/SQL - стартеры](images/maven-archetype-react.png)
+ 
    
 ## База знаний *SoftSpider*   
 
