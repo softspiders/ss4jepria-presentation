@@ -35,6 +35,21 @@ Google, GitHub, ...
 TBD
 
 
+## Иерархия на основе тегов
+
+Заложим для иерархии дискретно-математическую основу
+
+![](images/dag-by-tags.png)
+
+Это *Диаграмма Хассе* - способ изображения частично-упорядоченных множеств
+Такими множествами, которые в данном случае частично упорядочиваются являются теги.
+
+![](images/dag-by-tags-jersey-swagger-log4j.png) 
+
+![](images/dag-by-tags-jersey-swagger-log4j-make-sense.png) 
+
+![](images/dag-by-tags-jersey-swagger-log4j-make-sense-nice.png) 
+
 ## Свойство (Feature)
 
 ### Тег - идентификатор свойства
