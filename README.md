@@ -341,6 +341,8 @@ TBD
 
 Своего рода генеалогическое дерево проектов:
 
+PNG:
 ![SS-иерархия-png](images/soft-spiders-hierarhy.png)
 
+SVG:
 ![SS-иерархия-svg](images/soft-spiders-hierarhy.svg)
