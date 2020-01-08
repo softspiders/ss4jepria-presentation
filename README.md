@@ -339,6 +339,8 @@ TBD
 
 ### SS-иерархия
 
+Своего рода генеалогическое дерево проектов:
+
 ![SS-иерархия-png](images/soft-spiders-hierarhy.png)
 
 ![SS-иерархия-svg](images/soft-spiders-hierarhy.svg)
